@@ -1,0 +1,9 @@
+*~
+data-*.tfvars
+terraform.tfstate*
+*.hcl
+.terraform/
+auth/
+outputs*
+*.json
+init*.sh
