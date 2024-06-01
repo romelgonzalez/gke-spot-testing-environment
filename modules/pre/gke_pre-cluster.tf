@@ -76,8 +76,8 @@ resource "google_container_cluster" "gke-cluster-01-pre" {
       }
 
       cidr_blocks {
-          cidr_block   = "2.136.29.220/32"
-          display_name = "beservices"
+          cidr_block   = "35.235.240.0/20"
+          display_name = "gcp"
       }
 
   } 
