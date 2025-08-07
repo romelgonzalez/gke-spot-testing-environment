@@ -9,7 +9,7 @@ variable "region" {}
 variable "project_name" {}
 variable "zone" {}
 variable "domain_name" {}
-variable "ips_beservices" { type = list(string) }
+variable "ips_locales" { type = list(string) }
 variable "ips_customer" { type = list(string) }
 variable "ips_roadwarrior" { type = list(string) }
 variable "email_address" {}
