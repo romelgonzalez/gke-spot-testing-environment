@@ -50,7 +50,7 @@ email_address = "correo1"
 email_address_customer = "correo2"
 
 # Management
-ips_beservices	= ["2.136.29.220"] # Oficina
+ips_locales	= ["2.136.29.220"] # Oficina
 ips_customer	= ["0.0.0.0"] # Set to 0.0.0.0/0 to open management resources to all
 ips_roadwarrior = ["2.136.29.220","35.243.129.42","88.8.213.188"]
 
