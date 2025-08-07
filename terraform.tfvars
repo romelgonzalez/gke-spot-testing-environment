@@ -46,8 +46,8 @@ k8s_pre = {
 
 
 # Notification
-email_address = "romel.gonzalez@beservices.es"
-email_address_customer = "gonzalezromel83@gmail.com"
+email_address = "correo1"
+email_address_customer = "correo2"
 
 # Management
 ips_beservices	= ["2.136.29.220"] # Oficina
